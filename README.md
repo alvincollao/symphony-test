@@ -24,3 +24,6 @@ test environment to familiarize the github command.
 - Exposed labels and taints variables to allow the user to specify a list of labels
   to identify VMs in the cluster that can be preempted by Google Compute Engine, and
   taints that would indicate a VM is being preempted.
+  
+####
+Modify by Ronald
